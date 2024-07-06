@@ -39,8 +39,9 @@ print(titanic_data.describe())
 # Check for missing values
 print(titanic_data.isnull().sum())
 ```
-![Screenshot 2024-07-06 220346](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/9b99ac30-9e7e-4e7f-be58-3dc152245248)
 ![Screenshot 2024-07-06 220339](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/19a3d56a-9076-4fcb-a207-ceb5e3f99319)
+![Screenshot 2024-07-06 220346](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/9b99ac30-9e7e-4e7f-be58-3dc152245248)
+
 
 ```python
 # Check for missing values and clean data as needed
@@ -72,7 +73,8 @@ plt.show()
 ```
 
 ### Survival Rate by Gender
-![Screenshot 2024-07-03 200115](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK2/assets/159911587/0671b8f6-c91e-42c3-b0aa-abd18636bb49)
+![Screenshot 2024-07-06 220902](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/64a39575-9f80-466e-93a0-768c27642753)
+
 
 
 ```python
@@ -84,7 +86,8 @@ plt.title('Survival Rate by Passenger Class')
 plt.show()
 ```
 ### Survival Rate by Passenger Class
-![Screenshot 2024-07-03 200125](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK2/assets/159911587/db543ffb-c884-4785-abea-3ff58a3bf326)
+![Screenshot 2024-07-06 220910](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/7b1f17b3-2a9c-47d1-847d-6e9e7d4188e0)
+
 
 ```python
 # Visualize age distribution
@@ -95,5 +98,6 @@ plt.title('Age Distribution of Passengers')
 plt.show()
 ```
 ### Age Distribution of Passengers
-![Screenshot 2024-07-03 200132](https://github.com/PendemLikhitha/ProdigyInfoTech_TASK2/assets/159911587/b3aea4d5-f35d-4111-8b4e-febf14c2348e)
+![Screenshot 2024-07-06 220916](https://github.com/PendemLikhitha/PRODIGY_DS_02/assets/159911587/b3d53577-05f7-44f9-a425-c1e81be5d214)
+
 
